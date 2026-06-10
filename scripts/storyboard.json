@@ -1,0 +1,58 @@
+{
+  "style": "1920-30s Showa-era Japan, Tokyo's glamorous Ginza entertainment district. A captivating blend of Western and traditional Japanese aesthetics. Characters wear elegant period attire: sleek black evening gowns, tailored suits, and vibrant kimonos with fur accents. The mood is mysterious, elegant, and glamorous, with a theatrical, cinematic atmosphere. Visuals feature chiaroscuro lighting, deep shadows, and neon-lit cityscapes. The cinematography evokes vintage film noir with desaturated colors, subtle film grain, and dramatic close-ups. Sound design incorporates gentle jazz music and distant city sounds.",
+  "characters": [
+    {
+      "name": "Kurotokage",
+      "description": "A strikingly beautiful Japanese woman in her early thirties, with a captivating and enigmatic expression. Her hair is styled in a sophisticated, dark bob or an elegant chignon (marumage when in kimono). She has piercing, intelligent eyes. Her attire is predominantly luxurious, form-fitting black evening gowns, often with elaborate jewel accents, or sometimes a vibrant kimono with fur trim. Her physique is shapely and graceful. A prominent black lizard tattoo is subtly visible on her left arm, hinting at her dangerous persona. She exudes confidence, allure, and a dangerous theatricality."
+    },
+    {
+      "name": "Akechi Kogoro",
+      "description": "A slender Japanese man in his late thirties, with sharp, observant eyes and an air of quiet intelligence. He typically wears a meticulously tailored black or dark grey suit, often with a subtle pinstripe, a crisp white shirt, and a dark tie. His hair is neatly parted and dark. His demeanor is calm, analytical, and often inscrutable, though capable of intense focus and determination. He carries himself with a refined, somewhat aloof elegance, masking a formidable intellect."
+    },
+    {
+      "name": "Amemiya Junichi",
+      "description": "A muscular Japanese young man in his mid-twenties, with a slightly disheveled appearance. His face is rugged, with a flattened nose suggesting a past as a boxer. He has thick, unruly dark hair, often swept back with his fingers. His typical attire includes a flashy striped sack coat in bold colors (e.g., red or dark stripes) and a bright red tie, or a khaki worker's uniform. His expression often shifts between anxious, aggressive, and subservient, reflecting his volatile nature and his complex relationship with Kurotokage."
+    }
+  ],
+  "scenes": [
+    {
+      "visual": "Wide shot. A neon-lit cityscape of Tokyo's Ginza district at night in the 1920s-30s. Rain-slicked cobblestone streets reflecting colorful neon signs. Chiaroscuro lighting, deep shadows, desaturated colors with subtle film grain. Vintage film noir style.",
+      "speaker": "",
+      "dialogue": "",
+      "characters": [],
+      "duration_seconds": 4
+    },
+    {
+      "visual": "Medium shot. Kurotokage stands elegantly in a glamorous hall, wearing a sleek black evening gown with luxurious fur accents. Chiaroscuro lighting casting dramatic shadows. The camera slowly pans around her as she looks gracefully toward the dancing crowd, avoiding direct eye contact with the lens. Mysterious and theatrical atmosphere.",
+      "speaker": "Kurotokage",
+      "dialogue": "諸君、御機嫌よう。踊りましょう。",
+      "characters": [
+        "Kurotokage"
+      ],
+      "duration_seconds": 8
+    },
+    {
+      "visual": "Close-up. Amemiya Junichi leans against a wall in a dimly lit, elegant corridor, wearing a tailored vintage suit. Deep shadows obscure half of his face in classic film noir style. He looks downward with a troubled, mysterious expression. Desaturated colors and subtle film grain.",
+      "speaker": "Amemiya Junichi",
+      "dialogue": "恩返しをしてください。遠くへ行くための費用を……",
+      "characters": [
+        "Amemiya Junichi"
+      ],
+      "duration_seconds": 8
+    },
+    {
+      "visual": "A calm Japanese gentleman with neatly combed hair, wearing a 1930s tailored grey suit, stands in a softly lit elegant room. Warm lamplight and gentle shadows. Vintage cinematic style, desaturated tones, subtle film grain.",
+      "speaker": "the gentleman",
+      "dialogue": "なるほど、面白い。",
+      "characters": [],
+      "duration_seconds": 8
+    },
+    {
+      "visual": "Close-up. An ornate, vintage jewelry box slowly opens to reveal a massive, brilliantly sparkling diamond resting on dark velvet. A dramatic spotlight illuminates the gem against deep shadows. Vintage film noir aesthetics, desaturated colors.",
+      "speaker": "Kurotokage",
+      "dialogue": "この世の美しいものという美しいものを、すっかり集めてみたいの。",
+      "characters": [],
+      "duration_seconds": 4
+    }
+  ]
+}

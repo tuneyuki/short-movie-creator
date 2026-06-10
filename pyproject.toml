@@ -1,0 +1,16 @@
+[project]
+name = "short-movie-creator"
+version = "0.1.0"
+description = "小説や物語のテキストから縦型ショート動画を自動生成するツール（Gemini / Veo / Nano Banana / Lyria / TTS）"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai>=2.7.0",
+    "imageio-ffmpeg>=0.6.0",
+]
+
+[tool.uv]
+# 社内プロキシ(Zscaler)のTLS傍受対策: Windowsの信頼ストアを使う
+native-tls = true
+# 7日ルール: リリースから7日以内の版を入れない / 解決を安定させる
+exclude-newer = "2026-06-01T00:00:00Z"
